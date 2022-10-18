@@ -6,6 +6,7 @@ Das Buch enthält eine ganze Menge an Beispielen für Modelica 3, die als xxx.mo
 
 Modellbildung und Simulation technischer Systeme mit Modelica 3
 ---------------------------------------------------------------
+Eine kurze Einführung für Ingenieure und Studenten
 
 Ringbuch - 208 Seiten - ISBN-13: 9783739248226 - Verlag: Books on Demand
 

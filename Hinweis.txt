@@ -1,0 +1,13 @@
+Diese Modelle wurden im Februar 2016 mit den folgenden Modelica-Werkzeugen überprüft:
+
+1. OpenModelica 1.9.3 - keinerlei Einschränkungen
+2. Wolfram SystemModeler 4.2 - keinerlei Einschränkungen
+3. Dymola 2016 - Demoversion - Begrenzung der Systemgröße -> Wärmeleitung eingeschränkt
+4. SimulationX 3.7.2 - Studentenversion - Begrenzung der Systemgröße -> Wärmeleitung eingeschränkt
+
+Alle diese Programm verwenden die Modelica Standard Library 3.2.1. Dies ist in den Modellen
+vermerkt [uses(Modelica(version = "3.2.1"))]. 
+
+
+Aufgrund des anderen Konzeptes ist MapleSim 2015 als Werkzeug für dieses Buch nur sehr
+eingeschränkt zu empfehlen.
